@@ -2,7 +2,7 @@
 
 # One UI Icon Extractor
 
-**English** | [한국어](./docs/README.ko.md) | [日本語](./docs/README.ja.md) | [简体中文](./docs/README.zh-Hans.md) | [繁體中文](./docs/README.zh-Hant.md)
+**English** | [한국어](./README.ko.md) | [日本語](./README.ja.md) | [简体中文](./README.zh-Hans.md) | [繁體中文](./README.zh-Hant.md)
 
 Since One UI 8.5, a beautiful 3D shadow effect has been added to all app icons, and Samsung's default and system app icons are specifically designed to incorporate this detail.<br>
 However, most app icon extraction tools fail to capture this shadow effect. Unfortunately, this means that icons extracted and distributed by users, or those found on various wikis, often lack this visual element.
