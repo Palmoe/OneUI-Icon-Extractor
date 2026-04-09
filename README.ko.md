@@ -28,7 +28,7 @@ GitHub Releases 페이지에서 다운로드할 수 있습니다.<br>
 | <img src="./docs/images/screenshot_1.webp" width="280"> | <img src="./docs/images/screenshot_2.webp" width="280"> |
 | :---: | :---: |
 
-## 프로 팁
+## 프로 팁 (개발자 전용)
 자신의 앱에 One UI Sans를 반영하고 싶다면, `sec` 폰트 패밀리를 `sans-serif` 앞에 선언하세요.
 
 ## 면책 조항

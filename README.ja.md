@@ -28,7 +28,7 @@ GitHubのReleasesページからダウンロードできます。<br>
 | <img src="./docs/images/screenshot_1.webp" width="280"> | <img src="./docs/images/screenshot_2.webp" width="280"> |
 | :---: | :---: |
 
-## Pro Tips
+## Pro Tips（開発者向け）
 自身のアプリに One UI Sans フォントを適用したい場合は、フォントファミリーの宣言で `sec` を `sans-serif` の前に指定してください。
 
 ## 免責事項

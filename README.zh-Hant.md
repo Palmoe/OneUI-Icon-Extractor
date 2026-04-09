@@ -28,7 +28,7 @@
 | <img src="./docs/images/screenshot_1.webp" width="280"> | <img src="./docs/images/screenshot_2.webp" width="280"> |
 | :---: | :---: |
 
-## 進階技巧
+## 進階技巧（面向開發者）
 如果您想在自己的應用程式中套用 One UI Sans，請將 `sec` 字體族宣告在 `sans-serif` 之前。
 
 ## 免責聲明

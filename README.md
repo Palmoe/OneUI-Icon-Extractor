@@ -28,7 +28,7 @@ You can download the app from the GitHub Releases page.<br>
 | <img src="./docs/images/screenshot_1.webp" width="280"> | <img src="./docs/images/screenshot_2.webp" width="280"> |
 | :---: | :---: |
 
-## Pro Tip
+## Pro Tip (For developers)
 If you want to apply the One UI Sans font to your own app, declare the `sec` font family before `sans-serif`.
 
 ## Disclaimer
