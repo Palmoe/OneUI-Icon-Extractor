@@ -1,0 +1,46 @@
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Other editors
+.vscode/
+.fleet/
+
+# Gradle / Kotlin / local tool state
+.gradle/
+.gradle-user-home/
+.android-user-home/
+.android-user-home*/
+.kotlin/
+local.properties
+
+# Build outputs
+build/
+**/build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Packaged artifacts
+*.apk
+*.aab
+*.ap_
+
+# Signing / secrets
+keystore.properties
+*.jks
+*.keystore
+!debug.keystore
+
+# Logs / crash dumps
+*.log
+hs_err_pid*
+replay_pid*
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini

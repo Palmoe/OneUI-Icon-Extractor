@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">One UI Icon Extractor</string>
+    <string name="search_label">Search by app name or package</string>
+    <string name="third_party_apps">Third-party apps</string>
+    <string name="system_apps">System apps</string>
+    <string name="loading_apps">Loading installed launcher apps...</string>
+    <string name="empty_state">No apps match the current filter.</string>
+    <string name="selection_summary">%1$d selected / %2$d visible</string>
+    <string name="export_selected">Choose a folder and export PNGs</string>
+    <string name="export_in_progress">Exporting icons...</string>
+    <string name="export_cancelled">Folder selection was canceled.</string>
+    <string name="select_apps_first">Select at least one app before exporting.</string>
+    <string name="export_success">Exported %1$d icons to %2$s.</string>
+    <string name="export_partial_success">Exported %1$d icons, but %2$d failed. Folder: %3$s.</string>
+    <string name="export_failed_generic">No icons were exported.</string>
+    <string name="export_directory_unavailable">The selected folder is not writable.</string>
+    <string name="open_settings">Open settings</string>
+    <string name="settings_title">Settings</string>
+    <string name="settings_back">Go back</string>
+    <string name="settings_source_title">Icon source</string>
+    <string name="settings_source_subtitle">Choose which icon source to use on supported Samsung devices.</string>
+    <string name="settings_source_samsung">Samsung One UI icon API</string>
+    <string name="settings_source_samsung_description">Uses the Samsung IconTray result when the device supports it.</string>
+    <string name="settings_source_android">Standard Android icon API</string>
+    <string name="settings_source_android_description">Uses the regular Android application or activity icon.</string>
+    <string name="settings_resolution_title">Export resolution</string>
+    <string name="settings_resolution_subtitle">Choose the square PNG size for newly exported icons.</string>
+    <string name="settings_resolution_512_title">512 px</string>
+    <string name="settings_resolution_512_description">Balanced size (current default).</string>
+    <string name="settings_resolution_1024_title">1024 px</string>
+    <string name="settings_resolution_1024_description">Higher detail for editing or archival use.</string>
+    <string name="settings_resolution_2048_title">2048 px</string>
+    <string name="settings_resolution_2048_description">Largest export size for maximum detail.</string>
+</resources>

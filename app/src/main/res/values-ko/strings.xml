@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">One UI 아이콘 추출기</string>
+    <string name="search_label">앱 이름 또는 패키지명으로 검색</string>
+    <string name="third_party_apps">서드파티 앱</string>
+    <string name="system_apps">시스템 앱</string>
+    <string name="loading_apps">설치된 앱을 불러오는 중...</string>
+    <string name="empty_state">현재 필터와 일치하는 앱이 없습니다.</string>
+    <string name="selection_summary">%1$d개 선택 / %2$d개 표시 중</string>
+    <string name="export_selected">폴더 선택 후 PNG로 내보내기</string>
+    <string name="export_in_progress">아이콘을 내보내는 중...</string>
+    <string name="export_cancelled">폴더 선택이 취소되었습니다.</string>
+    <string name="select_apps_first">먼저 내보낼 앱을 하나 이상 선택해 주세요.</string>
+    <string name="export_success">%2$s 폴더에 %1$d개의 아이콘을 내보냈습니다.</string>
+    <string name="export_partial_success">%1$d개의 아이콘을 내보냈으며, %2$d개는 실패했습니다. (저장 위치: %3$s)</string>
+    <string name="export_failed_generic">아이콘 내보내기에 실패했습니다.</string>
+    <string name="export_directory_unavailable">선택한 폴더에 저장할 수 없습니다.</string>
+    <string name="open_settings">설정 열기</string>
+    <string name="settings_title">설정</string>
+    <string name="settings_back">뒤로 가기</string>
+    <string name="settings_source_title">아이콘 소스</string>
+    <string name="settings_source_subtitle">지원되는 삼성 기기에서 사용할 아이콘 소스를 선택하세요.</string>
+    <string name="settings_source_samsung">삼성 One UI 아이콘 API</string>
+    <string name="settings_source_samsung_description">기기가 지원하는 경우 삼성 IconTray 결과를 사용합니다.</string>
+    <string name="settings_source_android">기본 Android 아이콘 API</string>
+    <string name="settings_source_android_description">기본 Android 앱 또는 액티비티 아이콘을 사용합니다.</string>
+    <string name="settings_resolution_title">내보내기 해상도</string>
+    <string name="settings_resolution_subtitle">내보낼 아이콘 PNG의 크기를 선택하세요.</string>
+    <string name="settings_resolution_512_title">512 px</string>
+    <string name="settings_resolution_512_description">가장 적당한 크기이며 기본값으로 설정되어 있습니다.</string>
+    <string name="settings_resolution_1024_title">1024 px</string>
+    <string name="settings_resolution_1024_description">편집이나 보관 목적에 적합한 고해상도입니다.</string>
+    <string name="settings_resolution_2048_title">2048 px</string>
+    <string name="settings_resolution_2048_description">최고 화질을 제공하는 최대 내보내기 크기입니다.</string>
+</resources>

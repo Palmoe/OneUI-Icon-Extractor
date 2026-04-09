@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">One UIアイコン抽出ツール</string>
+    <string name="search_label">アプリ名またはパッケージ名で検索</string>
+    <string name="third_party_apps">サードパーティ製アプリ</string>
+    <string name="system_apps">システムアプリ</string>
+    <string name="loading_apps">インストール済みアプリを読み込んでいます...</string>
+    <string name="empty_state">条件に一致するアプリが見つかりません。</string>
+    <string name="selection_summary">%1$d件選択 / %2$d件表示中</string>
+    <string name="export_selected">フォルダを選択してPNGを書き出し</string>
+    <string name="export_in_progress">アイコンを書き出しています...</string>
+    <string name="export_cancelled">フォルダの選択がキャンセルされました。</string>
+    <string name="select_apps_first">書き出すアプリを1つ以上選択してください。</string>
+    <string name="export_success">%1$d個のアイコンを%2$sに書き出しました。</string>
+    <string name="export_partial_success">%1$d個のアイコンを書き出しましたが、%2$d個失敗しました。保存先: %3$s</string>
+    <string name="export_failed_generic">アイコンの書き出しに失敗しました。</string>
+    <string name="export_directory_unavailable">選択したフォルダには書き込めません。</string>
+    <string name="open_settings">設定を開く</string>
+    <string name="settings_title">設定</string>
+    <string name="settings_back">戻る</string>
+    <string name="settings_source_title">アイコンの取得元</string>
+    <string name="settings_source_subtitle">対応するSamsung端末で使用するアイコンの取得元を選択します。</string>
+    <string name="settings_source_samsung">Samsung One UIアイコンAPI</string>
+    <string name="settings_source_samsung_description">端末が対応している場合はSamsung IconTrayのアイコンを使用します。</string>
+    <string name="settings_source_android">標準AndroidアイコンAPI</string>
+    <string name="settings_source_android_description">通常のAndroidアプリまたはアクティビティのアイコンを使用します。</string>
+    <string name="settings_resolution_title">書き出し解像度</string>
+    <string name="settings_resolution_subtitle">書き出すPNGアイコンの画像サイズを選択します。</string>
+    <string name="settings_resolution_512_title">512 px</string>
+    <string name="settings_resolution_512_description">サイズと品質のバランスが取れたデフォルトの設定です。</string>
+    <string name="settings_resolution_1024_title">1024 px</string>
+    <string name="settings_resolution_1024_description">編集や保存に適した、より高精細なサイズです。</string>
+    <string name="settings_resolution_2048_title">2048 px</string>
+    <string name="settings_resolution_2048_description">最高画質で書き出せる最大サイズです。</string>
+</resources>

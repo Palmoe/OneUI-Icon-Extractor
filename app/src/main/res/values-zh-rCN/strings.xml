@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">One UI 图标提取器</string>
+    <string name="search_label">按应用名称或包名搜索</string>
+    <string name="third_party_apps">第三方应用</string>
+    <string name="system_apps">系统应用</string>
+    <string name="loading_apps">正在加载已安装的应用...</string>
+    <string name="empty_state">未找到符合条件的应用。</string>
+    <string name="selection_summary">已选 %1$d 个 / 共 %2$d 个</string>
+    <string name="export_selected">选择文件夹并导出 PNG</string>
+    <string name="export_in_progress">正在导出图标...</string>
+    <string name="export_cancelled">已取消选择文件夹。</string>
+    <string name="select_apps_first">导出前请至少选择一个应用。</string>
+    <string name="export_success">已成功将 %1$d 个图标导出至 %2$s。</string>
+    <string name="export_partial_success">已导出 %1$d 个图标，%2$d 个失败。文件夹：%3$s。</string>
+    <string name="export_failed_generic">未导出任何图标。</string>
+    <string name="export_directory_unavailable">无法写入所选文件夹。</string>
+    <string name="open_settings">打开设置</string>
+    <string name="settings_title">设置</string>
+    <string name="settings_back">返回</string>
+    <string name="settings_source_title">图标来源</string>
+    <string name="settings_source_subtitle">选择在受支持的三星设备上要使用的图标来源。</string>
+    <string name="settings_source_samsung">三星 One UI 图标 API</string>
+    <string name="settings_source_samsung_description">若设备支持，则使用三星 IconTray 的提取结果。</string>
+    <string name="settings_source_android">标准 Android 图标 API</string>
+    <string name="settings_source_android_description">使用标准的 Android 应用或 Activity 图标。</string>
+    <string name="settings_resolution_title">导出分辨率</string>
+    <string name="settings_resolution_subtitle">选择导出的 PNG 图标尺寸。</string>
+    <string name="settings_resolution_512_title">512 px</string>
+    <string name="settings_resolution_512_description">兼顾文件大小与图像质量，为默认选项。</string>
+    <string name="settings_resolution_1024_title">1024 px</string>
+    <string name="settings_resolution_1024_description">提供更丰富的细节，适合编辑或存档。</string>
+    <string name="settings_resolution_2048_title">2048 px</string>
+    <string name="settings_resolution_2048_description">最大导出尺寸，提供最高的细节表现。</string>
+</resources>
