@@ -14,7 +14,7 @@
 
 ## 安裝
 您可以在 GitHub Releases 頁面下載。<br>
-**[▶ 直接前往 GitHub Releases 頁面](https://github.com/Palmoe/OneUIIconExtractor/releases/latest)**
+**[▶ 直接前往 GitHub Releases 頁面](https://github.com/Palmoe/OneUI-Icon-Extractor/releases/latest)**
 
 ## 比較
 
@@ -33,3 +33,7 @@
 
 ## 免責聲明
 ***本專案是一個獨立的開源專案，與 Samsung Electronics Co., Ltd. 沒有任何附屬、贊助或關聯。本頁面中用於說明目的的圖示、標誌和商標的所有權利均歸原作者三星所有。***
+
+## 授權條款
+除非另有註明，本儲存庫中的原始碼均以 [Apache-2.0](./LICENSE) 授權釋出。<br>
+圖示、標誌、截圖、商標及其他第三方視覺素材不包含在該授權範圍內。詳情請參閱 [NOTICE](./NOTICE)。

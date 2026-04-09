@@ -14,7 +14,7 @@
 
 ## 安装
 您可以在 GitHub Releases 页面下载。<br>
-**[▶ 直接前往 GitHub Releases 页面](https://github.com/Palmoe/OneUIIconExtractor/releases/latest)**
+**[▶ 直接前往 GitHub Releases 页面](https://github.com/Palmoe/OneUI-Icon-Extractor/releases/latest)**
 
 ## 对比
 
@@ -33,3 +33,7 @@
 
 ## 免责声明
 ***本项目是一个独立的开源项目，与 Samsung Electronics Co., Ltd. 没有任何附属、赞助或关联。本页面中用于说明目的的图标、徽标和商标的所有权利均归原作者三星所有。***
+
+## 许可证
+除非另有说明，本仓库中的源代码均基于 [Apache-2.0](./LICENSE) 许可发布。<br>
+图标、徽标、截图、商标及其他第三方视觉素材不包含在该许可范围内。详情请参阅 [NOTICE](./NOTICE)。

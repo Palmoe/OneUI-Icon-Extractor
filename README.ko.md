@@ -14,7 +14,7 @@ One UI 8.5부터 모든 앱의 아이콘에는 멋진 3D 그림자 효과가 추
 
 ## 설치
 GitHub Releases 페이지에서 다운로드할 수 있습니다.<br>
-**[▶ GitHub Releases 페이지로 바로가기](https://github.com/Palmoe/OneUIIconExtractor/releases/latest)**
+**[▶ GitHub Releases 페이지로 바로가기](https://github.com/Palmoe/OneUI-Icon-Extractor/releases/latest)**
 
 ## 비교
 
@@ -33,3 +33,7 @@ GitHub Releases 페이지에서 다운로드할 수 있습니다.<br>
 
 ## 면책 조항
 ***이 프로젝트는 독립적인 오픈소스 프로젝트이며, Samsung Electronics Co., Ltd.와 어떠한 제휴, 보증 또는 관련도 없습니다. 본 페이지에 설명 목적으로 사용된 아이콘, 로고 및 상표의 모든 권리는 원저작자인 삼성에 있습니다.***
+
+## 라이선스
+별도 표기가 없는 한, 이 저장소의 소스 코드는 [Apache-2.0](./LICENSE) 라이선스를 따릅니다.<br>
+아이콘, 로고, 스크린샷, 상표 및 기타 서드파티 시각 자산은 해당 라이선스에 포함되지 않습니다. 자세한 내용은 [NOTICE](./NOTICE)를 참고하세요.

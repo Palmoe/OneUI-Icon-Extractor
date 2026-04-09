@@ -14,7 +14,7 @@ While this app also works on non-Samsung Android devices, it will fall back to u
 
 ## Installation
 You can download the app from the GitHub Releases page.<br>
-**[▶ Go to GitHub Releases](https://github.com/Palmoe/OneUIIconExtractor/releases/latest)**
+**[▶ Go to GitHub Releases](https://github.com/Palmoe/OneUI-Icon-Extractor/releases/latest)**
 
 ## Comparison
 
@@ -33,3 +33,7 @@ If you want to apply the One UI Sans font to your own app, declare the `sec` fon
 
 ## Disclaimer
 ***This is an independent open-source project and is not affiliated with, endorsed by, or associated with Samsung Electronics Co., Ltd. in any way. All rights to the icons, logos, and trademarks used on this page for illustrative purposes belong to their original creator, Samsung.***
+
+## License
+Unless otherwise noted, the source code in this repository is licensed under [Apache-2.0](./LICENSE).<br>
+Icons, logos, screenshots, trademarks, and other third-party visual assets are not covered by that license. See [NOTICE](./NOTICE).
